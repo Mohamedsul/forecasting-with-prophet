@@ -28,7 +28,7 @@ results, and download predictions.
 
 # 📈 2. Notebook: Prophet Forecasting
 
-**File:** `forecasting_models_comparison.ipynb`
+**File:** `forecasting.ipynb`
 
 ### Included steps:
 
