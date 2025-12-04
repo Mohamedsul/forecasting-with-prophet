@@ -82,7 +82,7 @@ Install required libraries:
 ### ▶️ Run Notebook
 
 1.  Open Jupyter
-2.  Load `forecasting_models_comparison.ipynb`
+2.  Load `forecasting.ipynb`
 
 ### ▶️ Run Streamlit App
 
