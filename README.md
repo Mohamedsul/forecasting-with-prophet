@@ -93,7 +93,7 @@ Install required libraries:
 # 📂 6. Project Structure
 
     📁 my-forecasting-project/
-    │── forecasting_models_comparison.ipynb
+    │── forecasting.ipynb
     │── streamlit_dashboard.py
     │── README.md
     │── requirements.txt
